@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true confession of the three notorious and bloodly murtherers of Thomas Thynn Esq. viz. Captain Vratz, Lieutenant Sterne, and George Boraskie, to two worthy divines in Newgate, before they went to the place of execution, which was at the place where they commited the fact, on Friday the 10th of this instant March 1682.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63468</idno>
+            <idno type="STC">Wing T2607</idno>
+            <idno type="STC">ESTC R1864</idno>
+            <idno type="EEBO-CITATION">12075944</idno>
+            <idno type="OCLC">ocm 12075944</idno>
+            <idno type="VID">53605</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53605)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 583:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true confession of the three notorious and bloodly murtherers of Thomas Thynn Esq. viz. Captain Vratz, Lieutenant Sterne, and George Boraskie, to two worthy divines in Newgate, before they went to the place of execution, which was at the place where they commited the fact, on Friday the 10th of this instant March 1682.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vratz, Christopher, d. 1682.</term>
+               <term>Stern, John, d. 1682.</term>
+               <term>Borodzycz, George, d. 1682.</term>
+               <term>Thynne, Thomas, 1648-1682.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:53605:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <head>THE TRUE CONFESSION OF THE Three notorious and Bloodly Murtherers of <hi>Thomas Thynn <abbr>Eſq</abbr> Viz.</hi>
+               <list>
+                  <item>Captain <hi>Vratz.</hi>
+                  </item>
+                  <item>Lieutenant <hi>Sterne</hi>
+                  </item>
+                  <item>and <hi>George Boraſkie,</hi>
+                  </item>
+               </list>
+To two worthy Divines IN NEWGATE, Before they went to the place OF EXECUTION: Which was at the place where they Com<g ref="char:EOLhyphen"/>mited the Fact on <date>
+                  <hi>Friday</hi> the 10th of this Inſtant <hi>March.</hi>
+               </date> 1682.</head>
+            <p>LLaſt <hi>Sunday</hi> in the afternoon the learned and famous Doctor <hi>Burnet</hi> was Charitably pleaſed to beſtow his pains on the poor condemned Priſoners in <hi>Newgate,</hi> and not unſucceſi<g ref="char:EOLhyphen"/>fully, for God gave his labours the bleſſing to be anſwered both with conviction, and confeſſion, his words were ſo melting and
+<pb n="2" facs="tcp:53605:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 50 -->
+powerful that the moſt Stubborn heart did bow before them, his Sermon was taken out of the 5. chapter of St. <hi>Lukes.</hi> Goſpel and the 32. verſe. <hi>Viz.</hi> I came not to call the Righteous but ſinners to repentance: when he had ranſackt their wounds and made them Senſible of the heynouſneſs of the Offence for which they were condemned, then (af<g ref="char:EOLhyphen"/>ter the Sermon was ended) he went to the Communion Table in that Chappel to exhort them to a full and ingenuous confeſſion what moved them to be concerned in ſo Barbarous a Murther. To which queſtion Lieutenant <hi>Stern</hi> meekly, (and with a due Sence of the foul<g ref="char:EOLhyphen"/>neſs of the crime) reply'd, that he had now lived thirty years and was never concern'd in any ill thing but this, and that now he was meerly drawn in, not knowing any thing of the Captains deſigne to Murther the Gentleman, but that he was deſir'd to go with Captain <hi>
+                  <g ref="char:V">Ʋ</g>ratz,</hi> to be his ſecond, the Captain telling him they were to fight on Horsback and accordingly he fitted himſelf with neceſſarys Suitable for ſuch an undertaking; and being told that was the perſon in the Coach, he rode up and ſtops it, thinking the Captain would have chal<g ref="char:EOLhyphen"/>lenged the Gentleman out, but contrary to his inclinations and expecta<g ref="char:EOLhyphen"/>tions <hi>Boraski</hi> the bloody Polander fir'd the Muſquetoon into the Coach and Murthered him, whereupon they all fled.</p>
+            <p>Then the Polander being askt by the Doctor upon what account the committed ſuch a baſe Villanous and Barbarous Murther as that was? anſwered that he was ſent for over by the Captain and promis'd a great reward to commit that dreadful fact.</p>
+            <p>The Captain was not there, his Obſtinate, Haughty and lofty Spirit, would not ſtoop to a Sermon of repentance, his courage would not trickle to the advice of a Servant of Chriſt Jeſus, tho he came in love to his poor Soul, No, the Doctor that had taken all this pains to go to <hi>Newgate,</hi> to Preach to them, and diſcourſe with them, muſt it ſeems take a little more to wait upon him: he went to viſit this hardned Hero, this Stiffnecked Son of <hi>Belial</hi> who was the cheif actor of this Tragedy, and when he come to him, all the arguments he could uſe, could not extort any other confeſſion from him then this, that he had challeng'd him, and becauſe he refuſ'd to fight him, he deſigned to Shoot him,</p>
+            <p>The Doctor asked him and the reſt what they thought when they received Sentence, they made anſwer that they thought nothing more but that they ſhould be ſaved as well as the Count he being indicted as well as they, ſo Ignorant they ſeem'd to be in our <hi>Engliſh</hi> Lawes. This was the chief part of their confeſſion, indeed the Lieutenant and the <hi>Polander</hi> doe ſeem afflicted with the horror of their guilt, and well they may, for few Kingdomes can inform us of a more bloody murther,
+<pb n="3" facs="tcp:53605:2"/>
+               <!-- PDF PAGE 50 -->
+the Circumſtances being duly conſider'd: To kill a Gentleman they had hardly ever ſeen from whom they had no provocation, not ſo much as an angry word, nor a croſs look! this looks like the ſecond part of Sir <hi>Edmund Bury; Godfrey's</hi> murther methinks I ſee the Nobles of <hi>Poland Germany</hi> and <hi>Sweedland</hi> bluſh at the very report of it. The Counts Countenance and favour might be the Captains Commiſſion, a piece of unneceſſary Gallantry is the Lieutenants Plea, and money made the <hi>Polanders</hi> Mare to Ride. It was matter of money or rather Matrimony I doubt that made Mr. <hi>Thynn</hi> ſo untimely fall. And let their confeſſion be never ſo ſlightly ſlubberd over here, he that commanded, thou ſhalt not kill, when he makes inquiſition for blood will not be mocked.</p>
+            <p>To another Doctor of Divinity of eminent worth and piety he ſaid he had no intention to Murther Eſquire; <hi>Thynn,</hi> but that the <hi>Polander</hi> miſapprehended him, but being ask'd by the ſame perſon who diſcourſed him in his own Language, whether he went not with an intention to kill or be kill'd? the Captain made anſwer he did, but deſign<g ref="char:EOLhyphen"/>ed not his death after ſo cowardly a manner, the Doctor then ſaid that as he had luſted after the death of a perſon who had never injur'd him, and whom he knew not, he had committed as great a ſin as he that luſteth after a woman with whom he ouhgt not to be concerned, to which the Captain reply'd that he had then been guilty after that rate 500 times, and further added, that rather then he would take an affront, or a box on the ear from any man, he would have his Soul damn'd in Hell, upon theſe unchriſtian like words the Gentleman left him.</p>
+            <p>Liuetenant <hi>Stern</hi> did acknowledge that he had not been a<g ref="char:EOLhyphen"/>bove a month in the Captains Service, and that in all that time he had not ſaid his prayers, and therefore did verily believe that if he had not left God, he had not been any way inſtrumental to accompliſh ſo heynous a Murther as this was.</p>
+            <p>
+               <hi>Boraski</hi> being ask'd how he durſt undertake ſo Barbarous a Murther, reply'd that when the Captain tempted him to it (in their Language) he anſwer'd, how can I Murther a perſon that I never received any injury from, to which the Captain made anſwer, 'tis not you that ſhall ſuffer but I.
+<pb n="4" facs="tcp:53605:3"/>
+               <!-- PDF PAGE 51 -->
+But it ſeems he was deceived in this particular, for they are all three like to ſuffer here, happy for them if their repen<g ref="char:EOLhyphen"/>tance prevent their ſuffering hereafter.</p>
+            <p>The Day and the Night before their Execution great in<g ref="char:EOLhyphen"/>tereſt was made both by money and friendr in the ſeveral Houſes adjoyning to the place of Execution, which was at St. <hi>Albanſtreet</hi> and where that never to be forgotten fact was committed. the crow'd might paralel the crime for greatneſs for a greater number of people have been ſeldome ſeen upon ſuch like occaſions: and notwithſtanding ſtrict care was taken to prevent all diſorders by the Conſtables Head-boroughs Beadles and Watchmen, yet it was too hard a task for them to keep of a Rabel, who ſo eagerly preſt upon them as if they itch'd to ſee Juſtice done upon ſuch vile, mercinary, Villanous and Barbarous Murtherers.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed By <hi>D. Mallet.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
